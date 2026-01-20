@@ -9,7 +9,7 @@ Primeiramente, feliz 2026 a você leitor(a)! 🎆
 
 Neste começo de ano, planejei iniciar uma sequência de posts relacionados ao framework de testes **Cypress**, com o objetivo de **compartilhar conhecimento com a comunidade de testes** e até mesmo com quem pretende **migrar para a área de teste de software**.
 
-Não detalharei muito neste momento sobre o roteiro que pretendo seguir, pois isso farei isso no primeiro post oficial da trilha Cypress. Mas, em resumo, percorreremos uma série de conceitos da ferramenta, como instalar e configurar em ambiente Linux, como realizar checagens via tela e via API, entre outras coisas, sempre trazendo exemplos de código e como utilizá-los numa aplicação web.
+Não detalharei muito neste momento sobre o roteiro que pretendo seguir, pois farei isso no primeiro post oficial da trilha Cypress. Mas, em resumo, percorreremos uma série de conceitos da ferramenta, como instalar e configurar em ambiente Linux, como realizar checagens via tela e via API, entre outras coisas, sempre trazendo exemplos de código e como utilizá-los numa aplicação web.
 
 Pretendo publicar dois posts por semana relacionados ao tema da trilha Cypress para manter um ritmo legal.
 
