@@ -17,6 +17,4 @@ Espero que gostem do conteúdo.
 
 Até mais!
 
-(Não usei I.A para gerar esse texto, viu?! rsrs)
-
 ---
