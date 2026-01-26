@@ -1,5 +1,5 @@
 ---
-title: "Trilha Cypress #1: O que é Cypress, iniciando projeto novo e visitando a primeira página web"
+title: "Trilha Cypress #1: O que é o Cypress, iniciando projeto novo e visitando a primeira página web"
 date: 2026-01-25 20:00 -0300
 categories: [cypress]
 tags: [cypress, automacao_de_testes, trilha_cypress]
